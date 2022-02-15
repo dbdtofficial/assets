@@ -1,0 +1,11 @@
+{
+    "name": "Digital BDT",
+    "website": "https://digitalbdt.org/",
+    "description": "Digital BDT or DBDT (Digital Blockchain Dominance Token).",
+    "explorer": "https://bscscan.com/token/0x02210ccf0ed27a26977e85528312e5bd53ce9960",
+    "type": "BEP20",
+    "symbol": "DBDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x02210ccf0ed27a26977e85528312e5bd53ce9960"
+}
